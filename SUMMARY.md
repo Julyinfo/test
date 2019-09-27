@@ -11,4 +11,9 @@
   * [陰影 Shadow](feng-ge-style/yin-ying-shadow.md)
 * [內容](nei-rong/README.md)
   * [頁首 Header](nei-rong/ye-shou-header.md)
+  * [頁尾 Footer](nei-rong/ye-wei-footer.md)
+* [元件 Component](yuan-jian-component/README.md)
+  * [Loding 動畫](yuan-jian-component/loding-dong-hua.md)
+  * [SVG動畫](yuan-jian-component/svg-dong-hua.md)
+* [範例 Showcase](fan-li-showcase.md)
 

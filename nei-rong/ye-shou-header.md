@@ -4,7 +4,7 @@ description: 頁首為展示LOGO並提供使用者開啟通往網站各處的選
 
 # 頁首 Header
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-Lp2sAeaBvD3mLsJrGav%2F-Lp2sDjFCKF1_a8f0RJp%2Fheader_banner.png?alt=media&token=792f9eb3-ada6-4570-ab9a-f4845d9d5a5a)‌
+![](../.gitbook/assets/header_banner.png)
 
 ### **電腦版**與**平板** <a id="dian-nao-ban-yu-ping-ban"></a>
 
