@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Test to update GitHub](README.md)
+* [Test to update GitHub v2](README.md)
 
