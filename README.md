@@ -4,7 +4,7 @@ description: 智慧財產權e網通之網站設計規範
 
 # 設計規範書 Design Guideline
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-Lp1xVz1Q-XkXSsslVJw%2F-Lp1wS4lHD47yS0IPN1n%2Fguideline_image.jpg?alt=media&token=77b6c727-c02a-4700-a23b-e459631c6da1)‌
+![](.gitbook/assets/guideline_image.jpg)
 
 ## 簡介 <a id="jian-jie"></a>
 
