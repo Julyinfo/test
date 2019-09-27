@@ -1,3 +1,7 @@
+---
+description: 色彩是用來溝通與傳達品牌印象給使用者的管道之一，還可提示不同狀態資訊給使用者。以下會介紹如何將色彩使用在本網站服務中。
+---
+
 # 色彩 Color
 
 ![](../.gitbook/assets/color_banner.png)
@@ -45,9 +49,9 @@
 | ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-LoyZaYU7ZFwJXWkBCoN%2F-LoyZiKGNzfjckjZxnWY%2Fcolor_333.png?alt=media&token=db57abc8-444f-4827-a53b-0d657946ae26) 黑色 | \#333333 | 內容文字顏色 |
 | ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-LoybzhzCeMSQ5wVf3x4%2F-LoycIFplMgdFQkqJexd%2Fcolor_vice.png?alt=media&token=c3324e4b-4406-4cd9-8225-903bd5a47aee) 青藍色 | \#2FA4DB | 表格表頭 / 目前頁籤 |
 
-‌
-
 ## 擴充色盤 <a id="kuo-chong-se-pan"></a>
 
-除了輔色外，我們也可以透過改變明度來產生更多色彩供畫面使用。除了輔助的色彩色相外，我們也可以透過明度的改變，來延伸我的色彩應用系統。![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-Lp12D8Hqsk8ciDIxX6t%2F-Loyg1jn9c_WvIxbaLgv%2Fcolor_code_image.jpg?alt=media&token=b9a98adf-e206-4951-8177-d1faacf792d9)
+除了輔色外，我們也可以透過改變明度來產生更多色彩供畫面使用。除了輔助的色彩色相外，我們也可以透過明度的改變，來延伸我的色彩應用系統。
+
+![](../.gitbook/assets/color_code_image.jpg)
 
