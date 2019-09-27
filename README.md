@@ -25,7 +25,7 @@ description: 智慧財產權e網通之網站設計規範
 
 ## 對象 <a id="dui-xiang"></a>
 
-### ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-Lp21Bv-dW5gpIdKkZiF%2F-Lp21ECKQwZuHUM5NGaZ%2Fguideline_icon_01.png?alt=media&token=33686377-bd7a-41b1-ab08-d7421508e3e5) Designer <a id="designer"></a>
+### ​![](.gitbook/assets/guideline_icon_01.png) Designer <a id="designer"></a>
 
 不論是使用者體驗設計師 \(UX Designer\)或使用者介面設計師 \(UI Designer\)，皆可善用規範中包含的所有設計規範、風格與元件，進行設計延伸並轉化並達到「智慧財產權e網通」之網站整體一致性。‌
 
