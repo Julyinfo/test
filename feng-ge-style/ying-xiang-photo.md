@@ -2,9 +2,11 @@
 description: 影像所意指為真實拍攝照片或透過插畫與其他手法所產生的圖像。將介紹如何正確挑選正確影像於本網站中使用。
 ---
 
-# 影像 Photo
+# 影像 Image
 
-## 挑選原則 <a id="tiao-yuan"></a>
+![](../.gitbook/assets/image_banner.png)
+
+## 挑選原則
 
 * 請挑選有正式版權的照片或圖像。
 * 請挑選解析度高於 500 x 500 px ，檔案格式為 JPG 或 PNG 的檔案。

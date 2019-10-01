@@ -7,7 +7,7 @@
   * [色彩 Color](feng-ge-style/se-cai-color.md)
   * [文字 Font](feng-ge-style/wen-zi-font.md)
   * [圖標 Icon](feng-ge-style/tu-biao-icon.md)
-  * [影像 Photo](feng-ge-style/ying-xiang-photo.md)
+  * [影像 Image](feng-ge-style/ying-xiang-photo.md)
   * [陰影 Shadow](feng-ge-style/yin-ying-shadow.md)
 * [內容](nei-rong/README.md)
   * [頁首 Header](nei-rong/ye-shou-header.md)
