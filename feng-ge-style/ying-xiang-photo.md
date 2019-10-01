@@ -8,6 +8,9 @@ description: 影像所意指為真實拍攝照片或透過插畫與其他手法�
 
 ## 挑選原則
 
+1. **解析度過低的影像**
+2. **與主題無關的影像**
+
 * 請挑選有正式版權的照片或圖像。
 * 請挑選解析度高於 500 x 500 px ，檔案格式為 JPG 或 PNG 的檔案。
 * 請挑選與標題或內容有關連的影像。
@@ -16,5 +19,13 @@ description: 影像所意指為真實拍攝照片或透過插畫與其他手法�
 
 ## 請避免這樣做 <a id="bi-mian-zuo"></a>
 
-#### 解析度太低的影像 <a id="jie-xi-du-tai-di-de-ying-xiang"></a>
+#### 01 解析度過低的影像 <a id="jie-xi-du-tai-di-de-ying-xiang"></a>
+
+![](../.gitbook/assets/image_image_01.png)
+
+####  <a id="zhu-de-ying-xiang"></a>
+
+#### 02 與主題無關的影像 <a id="zhu-de-ying-xiang"></a>
+
+![](../.gitbook/assets/image_image_02.png)
 
