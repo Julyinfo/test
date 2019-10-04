@@ -10,13 +10,13 @@ description: 色彩是用來溝通與傳達品牌印象給使用者的管道之�
 
 設定的主色能夠在網站風格配色達到一致性。‌
 
-### ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-LoyaM6PAEZ46N0yEy94%2F-LoyacRBVqVSb915r1YD%2Fcolor_logo.png?alt=media&token=508a6f9e-459a-4534-8e14-472993036b56) 鈷藍色 <a id="gu-lan-se"></a>
+### ​![](../.gitbook/assets/color00.png) 鈷藍色 <a id="gu-lan-se"></a>
 
 鈷藍色 色碼 \[ \#005798 \]‌
 
 引用[智慧財產權e網通](https://tiponet.tipo.gov.tw/TipoMenu/)企業示別標章之鈷藍色做為主色，使企業識別標章與網站兩者合而為一。鈷藍色可以帶給人們沉穩、寂靜與科技感的情緒與感受。‌
 
-### ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Loxp1jRO6hQiR0OZSzm%2F-Loxy2ypjpr4z1yhJzcX%2F-LoxzjYNxtc9ohFomamO%2Fcolor-w.png?alt=media&token=30defd04-ee3a-430f-aa36-1624b13ed5b4) 純白色 <a id="chun-bai-se"></a>
+### ​![](../.gitbook/assets/color-w.png) 純白色 <a id="chun-bai-se"></a>
 
 純白色 色碼 \[ \#FFFFFF \]‌
 

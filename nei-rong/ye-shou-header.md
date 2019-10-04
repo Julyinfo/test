@@ -36,3 +36,7 @@ description: 頁首為展示LOGO並提供使用者開啟通往網站各處的選
 
 ![](../.gitbook/assets/header_menu.png)
 
+{% hint style="warning" %}
+當無權限選擇時會顯示![](../.gitbook/assets/icon_lock.png)\(上鎖圖標\)
+{% endhint %}
+
