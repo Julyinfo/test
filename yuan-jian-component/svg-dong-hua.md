@@ -6,10 +6,6 @@ description: 在頁面讀取完畢時，於Loading畫面結束，以程式載入
 
 ### 程式結構
 
-```javascript
-<script>svgTimeout( 'index_svg_1', 'images/pageimg/title_icon01.svg' );</script>
-```
-
 程式結構如下方範例，
 
 需由`<div>`包覆SVG顯示的區域，於`<div>`加上`id`元素，此`id`需為唯一`id`，
