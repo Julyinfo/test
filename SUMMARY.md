@@ -16,7 +16,7 @@
 * [模板 Template](mo-ban/README.md)
   * [表單 Form](mo-ban/biao-chan-form.md)
   * [列表 List](mo-ban/lie-biao-list.md)
-  * [詳細頁 Detail](mo-ban/xiang-xi-ye-detail.md)
+  * [表格 Table](mo-ban/xiang-xi-ye-detail.md)
 * [元件 Component](yuan-jian-component/README.md)
   * [Loding 動畫](yuan-jian-component/loding-dong-hua.md)
   * [SVG動畫](yuan-jian-component/svg-dong-hua.md)
