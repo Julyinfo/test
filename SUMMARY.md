@@ -22,7 +22,6 @@
   * [表單 Form](yuan-jian-component/biao-chan.md)
   * [按鈕 Button](yuan-jian-component/an-niu.md)
   * [步驟 Step](yuan-jian-component/bu-zhou.md)
-  * [頁碼](yuan-jian-component/ye-ma.md)
   * [Loding 動畫](yuan-jian-component/loding-dong-hua.md)
   * [SVG動畫](yuan-jian-component/svg-dong-hua.md)
 * [範例 Showcase](fan-li-showcase.md)
