@@ -4,7 +4,9 @@
 
 ![](../.gitbook/assets/buttom_image_01.png)
 
+{% hint style="warning" %}
 滑鼠反應只在電腦版本當中會出現，在行動裝置瀏覽時不會出現滑鼠反應。
+{% endhint %}
 
 ```css
 /*--預設樣式--*/
