@@ -16,3 +16,7 @@
 .button:hover{ background-color:#0c6eb7; transition:.2s;}
 ```
 
+### 「外部連結」用按鈕
+
+![](../.gitbook/assets/buttom_image_02.png)
+
