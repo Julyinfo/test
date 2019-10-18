@@ -25,5 +25,4 @@
   * [步驟 Step](yuan-jian-component/bu-zhou.md)
   * [Loding 動畫](yuan-jian-component/loding-dong-hua.md)
   * [SVG動畫](yuan-jian-component/svg-dong-hua.md)
-* [範例 Showcase](fan-li-showcase.md)
 
