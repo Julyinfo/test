@@ -1,4 +1,4 @@
-# Loding 動畫
+# 載入動畫 Loding
 
 ![](../.gitbook/assets/loading_low_ie.jpg)
 
