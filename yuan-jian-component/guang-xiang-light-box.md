@@ -30,5 +30,8 @@ description: 以下將介紹光箱的用途與設定值
 
 /*--光箱輸入框--*/
 input{ border-bottom:1px solid #ccc; font-size:14px; line-height:34px; height:34px; color:#333;}
+
+/*--關閉按鈕--*/
+.close{ font-size:16px; color:#fff;}
 ```
 
