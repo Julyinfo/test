@@ -2,7 +2,11 @@
 
 ![](../.gitbook/assets/loading_low_ie.jpg)
 
+{% file src="../.gitbook/assets/loading\_low\_ie.jpg" caption="Loding 單張圖 - 下載" %}
+
 ![](../.gitbook/assets/loading.jpg)
+
+{% file src="../.gitbook/assets/loading.jpg" caption="Loding 影格 - 下載" %}
 
 電腦版CSS
 

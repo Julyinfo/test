@@ -8,7 +8,7 @@
 
 在較小的行動裝置將選單設定為**漢堡選單**\(Hamburger menu\)方式呈現，在空間有所限制時**漢堡選單**可以有效的將過多的選項暫時隱蔽，當需要時再點擊展開選單進行選擇。
 
-![](../.gitbook/assets/header_menu.png)
+![](../.gitbook/assets/header_menu.jpg)
 
 {% hint style="warning" %}
 當無權限選擇時會顯示 ![](../.gitbook/assets/icon_lock.png) \(上鎖圖標\)

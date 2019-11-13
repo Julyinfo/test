@@ -48,7 +48,7 @@ description: 本網站是以提供民眾完整的智慧局e網通服務為目標
 |  |  | 2.4.4電子收據查詢 |
 |  |  | 2.4.5專利年費試算 |
 
-{% file src=".gitbook/assets/title\_icon02.svg" %}
+{% file src=".gitbook/assets/title\_icon02.svg" caption="繳費 單元圖標 - 下載" %}
 
 ## ![](.gitbook/assets/icon_architecture_03.png) 公開資訊
 
@@ -71,7 +71,7 @@ description: 本網站是以提供民眾完整的智慧局e網通服務為目標
 |  |  | 3.8.4 103年通訊產業專利趨勢與專利訴訟分析 |
 |  |  | 3.8.5 104年通訊產業專利趨勢與專利訴訟分析 |
 
-{% file src=".gitbook/assets/title\_icon03.svg" %}
+{% file src=".gitbook/assets/title\_icon03.svg" caption="公開資訊 單元圖標 - 下載" %}
 
 ## ![](.gitbook/assets/icon_architecture_04.png) 檢索
 
@@ -84,7 +84,7 @@ description: 本網站是以提供民眾完整的智慧局e網通服務為目標
 |  | 4.5本國專利技術名詞中英對照詞庫查詢系統 |
 |  | 4.6商品及服務名稱中英對照查詢系統 |
 
-{% file src=".gitbook/assets/title\_icon04.svg" %}
+{% file src=".gitbook/assets/title\_icon04.svg" caption="檢索 單元圖標 - 下載" %}
 
 ## ![](.gitbook/assets/icon_architecture_05.png) 支援
 
@@ -104,7 +104,7 @@ description: 本網站是以提供民眾完整的智慧局e網通服務為目標
 |  |  | 5.6.7如何列印繳費單？ |
 |  | 5.7設計規範 |  |
 
-{% file src=".gitbook/assets/title\_icon05.svg" %}
+{% file src=".gitbook/assets/title\_icon05.svg" caption="支援 單元圖標 - 下載" %}
 
 ## ![](.gitbook/assets/icon_architecture_06.png) 首頁
 

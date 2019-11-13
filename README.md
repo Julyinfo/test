@@ -20,13 +20,13 @@ description: 智慧財產權e網通之網站設計規範
 
 **智慧財產權e網通 設計規範** 包含了以下內容：‌
 
-1. 使用體驗設計原則
-2. 通用性設計
-3. 資訊架構
-4. 視覺風格設計方式
-5. 佈局方式介紹
-6. 模板使用規範
-7. 元件使用方式
+1. 使用體驗設計原則 [➥](zeng-jia-yi-ge-ye-mian-shang-chuan.md)
+2. 通用性設計 [➥](zeng-jia-yi-ge-ye-mian-shang-chuan.md)
+3. 資訊架構 [➥](zi-xun-jia-gou-information-architecture.md)
+4. 視覺風格設計方式 [➥](feng-ge-style/)
+5. 佈局方式介紹 [➥](nei-rong/)
+6. 模板使用規範 [➥](mo-ban/)
+7. 元件使用方式 [➥](yuan-jian-component/)
 
 ## 參與對象 <a id="dui-xiang"></a>
 

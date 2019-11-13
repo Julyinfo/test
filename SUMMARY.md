@@ -21,9 +21,10 @@
   * [表格 Table](mo-ban/xiang-xi-ye-detail.md)
 * [元件 Component](yuan-jian-component/README.md)
   * [表單 Form](yuan-jian-component/biao-chan.md)
-  * [按鈕 Button](yuan-jian-component/an-niu.md)
   * [步驟 Step](yuan-jian-component/bu-zhou.md)
   * [光箱 Light Box](yuan-jian-component/guang-xiang-light-box.md)
+  * [狀態 Status](yuan-jian-component/zhuang-tai-status.md)
   * [載入動畫 Loding](yuan-jian-component/loding-dong-hua.md)
+  * [按鈕 Button](yuan-jian-component/an-niu.md)
   * [SVG動畫](yuan-jian-component/svg-dong-hua.md)
 

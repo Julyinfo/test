@@ -15,5 +15,5 @@
 
 ![](../.gitbook/assets/page_form.png)
 
-如需引用參數請前往「[表單](../yuan-jian-component/biao-chan.md)」
+如需引用參數請前往「[元件 - 表單](../yuan-jian-component/biao-chan.md)」
 

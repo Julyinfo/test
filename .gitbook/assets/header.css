@@ -1,0 +1,132 @@
+/*header*/
+.header{ height:72px; position:fixed; background:#333; top:0; left:0; width:100%; z-index:50; }
+.header .logos{ position:absolute; left:20px; top:50%; margin-top:-25px; z-index:5; }
+.header .favorite{ position:absolute; top:50%; right:30px; margin-top:-11px; z-index:6; display:block; font-size:22px; color:#fff; cursor:pointer; }
+.header .loginbtn{ display:none; position:absolute; right:20px; top:50%; margin-top:-18px; z-index:5; }
+.header .loginbtn .abtn{ display:inline-block; vertical-align:middle; line-height:36px; height:36px; padding:0 15px; text-decoration:none; color:#fff; font-size:15px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; background:#005798; }
+.header .loginbtn .bbtn{ display:inline-block; vertical-align:middle; line-height:36px; height:36px; padding:0 15px; text-decoration:none; color:#fff; font-size:15px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; background:#444; }
+.header .menubtn{ display:none; position:absolute; z-index:5; width:30px; right:30px; top:50%; margin-top:-8px; }
+.header .menubtn span{ display:block; width:100%; height:2px; background:#777; margin:0 0 5px 0; }
+.header .menubtn:before{ content:""; display:block; width:100%; height:2px; background:#777; margin:0 0 5px 0; }
+.header .menubtn:after{ content:""; display:block; width:100%; height:2px; background:#777; }
+.header .membername{ position:absolute; z-index:5; right:60px; top:50%; margin-top:-15px; }
+.header .membername .tabs{ display:table; }
+.header .membername .tabs .td-a{ display:table-cell; vertical-align:middle; width:30px; }
+.header .membername .tabs .td-b{ display:table-cell; vertical-align:middle; padding-left:10px; }
+.header .membername .tabs .td-b .name{ display:inline-block; vertical-align:middle; font-size:15px; color:#fff; }
+.header .membername .tabs .td-b .btns{ display:inline-block; line-height:20px; font-size:12px; color:#fff; text-decoration:none; border:1px solid #fff; border-radius:3px; -webkit-border-radius:3px; -moz-border-radius:3px; padding:0 5px; transition:.2s;}
+.header .membername .rus{ display:block; width:30px; height:30px; line-height:30px; text-align:center; color:#fff; background-color:#0068b7; font-size:18px; border-radius:50%; -webkit-border-radius:50%; -moz-border-radius:50%; overflow:hidden; }
+
+/*menu*/
+.header .menus{ text-align:center; font-size:0; position:relative; }
+.header .menus .grids{ display:inline-block; vertical-align:middle; line-height:72px; text-decoration:none; cursor: pointer; }
+.header .menus .grids .gtitle{ display:block; font-size:18px; color:#fff; text-decoration:none; position:relative; padding:0 20px; transition:.2s;}
+.header .menus .grids .gtitle:before{ content:""; display:block; background:#5597d1; height:3px; position:absolute; top:0; left:15px; right:15px; margin:auto; opacity:0; transition:.2s;}
+.header .menus .grids .du{ max-height:100%; display:none; position:fixed; top:72px; left:0; right:0; margin:auto; background:#4d98d1; padding:40px 0; text-align:center; line-height:normal; overflow:auto; box-shadow:0 5px 10px 0 rgba(0,0,0,.2);}
+.header .menus .grids:nth-child(2) .du{ background:#41d4b3;}
+.header .menus .grids:nth-child(3) .du{ background:#f0c74a;}
+.header .menus .grids:nth-child(4) .du{ background:#e86a6a;}
+.header .menus .grids:nth-child(5) .du{ background:#978cfc;}
+.header .menus .grids .du::after{ content:""; display:block; height:40px;}
+.header .menus .grids .du .range{ max-width:1200px; padding:0 40px; margin:auto; display:flex; flex-wrap: wrap; flex-direction: row; }
+.header .menus .grids .du .sgrids{ display:inline-block; vertical-align:top; width:25%; padding:0 10px; text-align:left; margin-bottom:20px; }
+.header .menus .grids .du .sgrids .stitle{ font-size:18px; color:#fff; font-weight:bold; display:block; text-decoration:none; margin-bottom:15px; width:100%; border-bottom:1px solid #fff; line-height:30px; padding:5px 0;}
+.header .menus .grids .du .sgrids .stitle .lock{ display:inline-block; padding-right:5px;}
+.header .menus .grids .du .sgrids .stitle .fa-link{ font-size:16px; vertical-align:middle; line-height:29px; padding-left:5px;}
+.header .menus .grids .du .sgrids .stxt{ font-size:16px; color:#fff; display:block; text-decoration:none; margin-bottom:15px; padding:0 0 0 15px; position:relative; width:100%; transition:.2s;}
+.header .menus .grids .du .sgrids .stxt:before{ content:""; display:block; width:0; height:0; border-color:transparent transparent transparent #fff; border-width:3px 0 3px 5px; border-style:solid; position:absolute; top:8px; left:0; transition:.2s;}
+.header .menus .grids .du .sgrids .stxt .lock{ display:none; position:absolute; top:4px; left:0; color:#fff; }
+.header .menus .grids .du .sgrids .stxt.nouse .lock{ display:block; }
+.header .menus .grids .du .sgrids .stxt.nouse:before{ display:none; }
+.header .menus .grids .du .sgrids:nth-child(4n){ border:none; }
+.header .menus .grids .du .sgrids .nouse{ opacity:0.5; }
+
+/*================================●●●●●●●●●●●●Hover●●●●●●●●●●●●================================*/
+@media screen and (min-width:1024px){
+/*header*/
+.header .menus .grids:hover .gtitle:before{ content:""; display:block; background:#5597d1; height:3px; position:absolute; top:0; left:15px; right:15px; margin:auto; opacity:1; transition:.2s; -webkit-transition:.2s; -moz-transition:.2s;}
+.header .menus .grids.hold .gtitle:before{ content:""; display:block; background:#5597d1; height:3px; position:absolute; top:0; left:15px; right:15px; margin:auto; opacity:1; transition:.2s; -webkit-transition:.2s; -moz-transition:.2s;}
+.header .menus .grids:nth-child(2) .gtitle:before{ background:#41d4b3; }
+.header .menus .grids:nth-child(3) .gtitle:before{ background:#f0c74a; }
+.header .menus .grids:nth-child(4) .gtitle:before{ background:#e86a6a; }
+.header .menus .grids:nth-child(5) .gtitle:before{ background:#978cfc; }
+.header .membername .tabs .td-b .btns:hover{ border-color:#005798; color:#005798; background-color:#cdeaff; transition:.5s; -webkit-transition:.5s; -moz-transition:.5s;}
+.header .favorite .fa.fa-cog:hover{ animation:edit_member 1.5s linear infinite;}
+@keyframes edit_member{0%{transform:rotate(0deg); -webkit-transform:rotate(0deg); -moz-transform:rotate(0deg);}100%{transform:rotate(360deg); -webkit-transform:rotate(360deg); -moz-transform:rotate(360deg);}}
+@-webkit-keyframes edit_member{0%{transform:rotate(0deg); -webkit-transform:rotate(0deg); -moz-transform:rotate(0deg);}100%{transform:rotate(360deg); -webkit-transform:rotate(360deg); -moz-transform:rotate(360deg);}}
+@-moz-keyframes edit_member{0%{transform:rotate(0deg); -webkit-transform:rotate(0deg); -moz-transform:rotate(0deg);}100%{transform:rotate(360deg); -webkit-transform:rotate(360deg); -moz-transform:rotate(360deg);}}
+
+.header .menus .grids .du { min-width: calc(100% + 15px); max-height: calc(100% + -72px); overflow-x: hidden; }
+.header .menus .grids .du .sgrids .stxt:hover{ background-color:rgba(0,0,0,.1); transition:.2s;}
+.header .menus .grids .du .sgrids .stxt:hover:before{ left:5px; transition:.2s;}
+}
+
+
+
+
+/*================================●●●●●●●●●●●●平板●●●●●●●●●●●●================================*/
+@media screen and (min-width:768px) and (max-width:1023px){
+.header .logos{ left:50%; margin-left:-107px; }
+.header .loginbtn{ position:static; margin:auto; font-size:0; }
+.header .loginbtn .abtn{ width:50%; border-radius:0; -webkit-border-radius:0; -moz-border-radius:0; text-align: center; }
+.header .loginbtn .bbtn{ width:50%; border-radius:0; -webkit-border-radius:0; -moz-border-radius:0; text-align: center; }
+.header .menubtn{ display:block; }
+.header .minor{ display:none; position: fixed; width: 240px; right: 0; top: 72px; background: #f2f2f2; }
+.header .favorite{ right:auto; left:30px; }
+.header .membername{ position:static; margin:auto; padding:15px;
+background: rgb(47,164,219);
+background: -moz-linear-gradient(left,  rgba(47,164,219,1) 0%, rgba(0,87,152,1) 100%);
+background: -webkit-linear-gradient(left,  rgba(47,164,219,1) 0%,rgba(0,87,152,1) 100%); 
+background: linear-gradient(to right,  rgba(47,164,219,1) 0%,rgba(0,87,152,1) 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fa4db', endColorstr='#005798',GradientType=1 ); }
+.header .membername .tabs .td-b .name{ color:#fff; }
+.header .membername .tabs .td-b .btns{ border:1px solid #fff; color:#fff; }
+.header .menus{ /*max-height:745px; */ max-height: calc(100vh - 132px); overflow:auto; }
+.header .menus .grids{ display:block; line-height:normal; padding: 15px 5px; border-bottom: 1px solid #ddd; position:relative; margin: 0 15px; }
+.header .menus .grids:last-child{ border:none; }
+.header .menus .grids .gtitle{ text-align:left; position:relative; padding:0; }
+.header .menus .grids .gtitle:after{ content:""; display:block; width:0; height:0; border-style:solid; border-color:#aaa transparent transparent transparent; border-width:7px 5px 0 5px; position:absolute; right:5px; top:50%; margin-top:-3px; }
+.header .menus .grids .du{ position:static; padding:10px 0 0 0; background:none !important;}
+.header .menus .grids .du .range{ padding:0; display:block; }
+.header .menus .grids .du .sgrids{ display:block; width:auto; padding:0; border:0; margin-bottom: 15px; }
+.header .menus .grids .du .sgrids .stitle{ font-size:16px; margin:0 0 10px 0; color:#005798;}
+.header .menus .grids .du .sgrids .stxt{ margin:0 0 10px 0; font-size: 14px; color:#333;}
+.header .menus .grids .du .sgrids .stxt:before{ border-color: transparent transparent transparent #aaa;}
+.header .menus .grids .du .sgrids .stxt .lock{ color:#aaa;}
+}
+
+
+
+
+/*================================●●●●●●●●●●●●手機●●●●●●●●●●●●================================*/
+@media screen and (max-width:767px){
+.header{ height:50px; }
+.header .logos{ left:50%; margin-left:-107px; }
+.header .loginbtn{ position: absolute; margin: auto; font-size: 0; top: 50px; left: 0; right: 0; }
+.header .loginbtn .abtn{ width:50%; border-radius:0; -webkit-border-radius:0; -moz-border-radius:0; text-align: center; line-height:40px; height:40px; }
+.header .loginbtn .bbtn{ width:50%; border-radius:0; -webkit-border-radius:0; -moz-border-radius:0; text-align: center; line-height:40px; height:40px; }
+.header .menubtn{ display:block; width: 24px; right: 10px; }
+.header .minor{ display: block; position: fixed; width:100%; right:-100%; top:0; background:#333; padding-top:110px; height: 100%; transition: .5s; }
+.header .minor.toggleRight { right: 0%;}
+.header .favorite{ right:auto; left:10px; }
+.header .membername{ position:absolute; margin:auto; padding:15px; top:50px; left:0; right:0; width:100%;
+background: rgb(47,164,219);
+background: -moz-linear-gradient(left,  rgba(47,164,219,1) 0%, rgba(0,87,152,1) 100%);
+background: -webkit-linear-gradient(left,  rgba(47,164,219,1) 0%,rgba(0,87,152,1) 100%); 
+background: linear-gradient(to right,  rgba(47,164,219,1) 0%,rgba(0,87,152,1) 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fa4db', endColorstr='#005798',GradientType=1 ); }
+.header .membername .tabs .td-b .name{ color:#fff; }
+.header .membername .tabs .td-b .btns{ border:1px solid #fff; color:#fff; }
+.header .menus{ max-height: none; overflow: auto; height: 100%; background-color:#fff;}
+.header .menus .grids{ display:block; line-height:normal; padding: 15px 5px; border-bottom: 1px solid #ddd; position:relative; margin: 0 15px; }
+.header .menus .grids:last-child{ border:none; }
+.header .menus .grids .gtitle{ text-align:left; position:relative; padding:0; color:#333;}
+.header .menus .grids .gtitle:after{ content:""; display:block; width:0; height:0; border-style:solid; border-color:#aaa transparent transparent transparent; border-width:7px 5px 0 5px; position:absolute; right:5px; top:50%; margin-top:-3px; }
+.header .menus .grids .du{ background:none !important; position:static; padding:10px 0 0 0; box-shadow:none;}
+.header .menus .grids .du .range{ padding:0; display:block; }
+.header .menus .grids .du .sgrids{ display:block; width:auto; padding:0; border:0; margin-bottom: 15px; }
+.header .menus .grids .du .sgrids .stitle{ font-size:16px; margin:0 0 10px 0; color:#005798;}
+.header .menus .grids .du .sgrids .stxt{ margin:0 0 10px 0; font-size: 14px; color:#333;}
+.header .menus .grids .du .sgrids .stxt:before{ border-color:transparent transparent transparent #aaa;}
+.header .menus .grids .du .sgrids .stxt .lock{ color:#aaa;}
+}

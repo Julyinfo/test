@@ -18,3 +18,10 @@ description: 整合站內所有功能，包含了網頁導覽、版權宣告、�
 
 ![](../.gitbook/assets/footer_image.jpg)
 
+```css
+footer{ backgroung-color:#eee; padding:40px;}
+Lv01_menu{ color:#005798; font-size:16px;}
+Lv02_menu{ color:#333; font-size:14px;}
+Lv03_menu{ color:#333; font-size:14px;}
+```
+

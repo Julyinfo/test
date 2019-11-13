@@ -21,3 +21,24 @@ description: 在多樣性的內容中，訂定內容呈現方式的一致性，�
 
 ![](../.gitbook/assets/page_top_block.png)
 
+以下為上方示意圖之html/css代碼：
+
+```markup
+<div class="sortlines">
+  <div class="grids"></div>
+  <div class="grids"></div>
+  <div class="grids"></div>
+  <div class="grids"></div>
+  <div class="grids"></div>
+</div>
+```
+
+```css
+.sortlines{ height:15px; font-size:0;}
+.sortlines .grids{ display:inline-block; vertical-align:middle; height:15px; width:20%; background:#4d98d1;}
+.sortlines .grids:nth-child(2){ background:#41d4b3;}
+.sortlines .grids:nth-child(3){ background:#f0c74a;}
+.sortlines .grids:nth-child(4){ background:#e86a6a;}
+.sortlines .grids:nth-child(5){ background:#978cfc;}
+```
+
