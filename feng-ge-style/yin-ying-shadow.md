@@ -20,7 +20,7 @@ description: 陰影是幫助我們在畫面上增加空間前後感，使資訊�
 使用陰影元素時以舒適且剛好能夠區分即可，勿以強烈的深色色彩做為陰影元素來使用，過於沉重的陰影元素會使畫面顯得生硬呆板。
 
 ```css
-.BoxShadow{box-shadow:0px 3px 15px rgba(0,0,0,.15);}
+.BoxShadow{box-shadow:0px 3px 15px 0 rgba(0,0,0,.15);}
 ```
 
 ## 文字陰影範例

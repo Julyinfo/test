@@ -1,3 +1,4 @@
+@charset "utf-8";
 /*header*/
 .header{ height:72px; position:fixed; background:#333; top:0; left:0; width:100%; z-index:50; }
 .header .logos{ position:absolute; left:20px; top:50%; margin-top:-25px; z-index:5; }

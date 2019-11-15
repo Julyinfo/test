@@ -18,10 +18,18 @@ description: 整合站內所有功能，包含了網頁導覽、版權宣告、�
 
 ![](../.gitbook/assets/footer_image.jpg)
 
+以下為頁尾參考設定值：
+
 ```css
 footer{ backgroung-color:#eee; padding:40px;}
 Lv01_menu{ color:#005798; font-size:16px;}
 Lv02_menu{ color:#333; font-size:14px;}
 Lv03_menu{ color:#333; font-size:14px;}
 ```
+
+以下為頁尾 HTML / CSS ：
+
+{% file src="../.gitbook/assets/footer.html" caption="footer.html - 下載" %}
+
+{% file src="../.gitbook/assets/footer.css" caption="footer.css - 下載" %}
 

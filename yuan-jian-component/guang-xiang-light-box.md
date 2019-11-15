@@ -10,7 +10,7 @@ description: 以下將介紹光箱的用途與設定值
 
 ![](../.gitbook/assets/light_box_image.png)
 
-以下為光箱設定值：
+以下為光箱css參考設定值：
 
 ```css
 /*--黑底--*/

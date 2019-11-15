@@ -2,7 +2,15 @@
 
 ![](../.gitbook/assets/step_image_01.png)
 
+以下為兩種狀態示意。
+
 ![](../.gitbook/assets/step_image_02.png)
+
+以下為單個步驟規格簡述。
+
+![](../.gitbook/assets/step_image_03.png)
+
+以下為上方示意圖之css參考代碼：
 
 ```css
 /*--圓框--*/

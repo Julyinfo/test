@@ -10,7 +10,7 @@ description: 色彩是用來溝通與傳達品牌印象給使用者的管道之�
 
 設定的主色能夠在網站風格配色達到一致性。‌
 
-### ![](../.gitbook/assets/color_logo%20%281%29.png) 鈷藍色 <a id="gu-lan-se"></a>
+### ![](../.gitbook/assets/color_logo.png) 鈷藍色 <a id="gu-lan-se"></a>
 
 鈷藍色 色碼 \[ \#005798 \]‌
 

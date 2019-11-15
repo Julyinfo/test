@@ -8,9 +8,11 @@ description: 文字是傳遞資訊給使用者最重要的元素。標題與內�
 
 ## 字型規範
 
-本網站為RWD響應式網頁，設計時會以良好的使用者體驗為最終目標，因此採用Google Font 中的「思原黑體」作為顯示字體，在閱讀上既美觀且易閱讀。字體介紹如下：
+本網站為RWD響應式網頁，設計時會以良好的使用者體驗為最終目標，因此採用[Google Font](https://fonts.google.com/) 中的「思原黑體」作為顯示字體，在閱讀上既美觀且易閱讀。字體介紹如下：
 
 ![](../.gitbook/assets/font_banner.png)
+
+**思源黑體**在 Google Font 中為「**Noto Sans TC**」
 
 ## 字級規範
 
