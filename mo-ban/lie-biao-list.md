@@ -9,6 +9,7 @@
 1. 合適的圖標 \( 66px\(W\) \* 66px\(H\) \)
 2. 項目標題 \( 18px / Bold / ![](../.gitbook/assets/color_333.png)\#333\(Font\) \)
 3. 項目輔助說明文案 \( 14px / ![](../.gitbook/assets/color_333.png)\#333\(Font\) \)
+4. 分隔線 \( border-bottom:1px solid![](../.gitbook/assets/color_ccc.png)\#CCC; \)
 
 以案件申請中的「案件變更」做為範例：
 
@@ -22,7 +23,7 @@
 
 1. 合適的圖標 \( 66px\(W\) \* 66px\(H\) \)
 2. 項目標題 \( 18px / Bold / ![](../.gitbook/assets/color_333.png)\#333\(Font\) \)
-3. 標籤 \( 14px / ![](../.gitbook/assets/color-w.png)\#FFF\(Font\) / ![](../.gitbook/assets/color_vice.png)\#2ea2da\(BG\) \)
+3. 標籤 \( 14px / ![](../.gitbook/assets/color-w.png)\#FFF\(Font\) / ![](../.gitbook/assets/color_vice.png)\#2EA2DA\(BG\) \)
 4. 輔助資訊 \( 14px / ![](../.gitbook/assets/color_logo.png)\#005798\(Font\) \)
 
 以案件申請中的「案件變更」做為範例：

@@ -1,12 +1,16 @@
+---
+description: 辨別狀態工具。
+---
+
 # 狀態 Status
 
 服務狀態會以三種顏色來區分出不同的狀態，使用不同的顏色來便於使用者能夠輕易辨識，欲使用的項目是否正常執行服務中。其中會以正常、維護、異常，三種狀態來提供辨識，以下為三種狀態介紹：
 
-| 服務狀態 | 狀態說明 |
-| :--- | :--- |
-| ![](../.gitbook/assets/color_02.png)正常服務中 | 目前所有功能均正常提供服務。 |
-| ![](../.gitbook/assets/color_03.png)維護服務中 | 目前正在更新、維修或系統相關調整作業。 |
-| ![](../.gitbook/assets/color_04.png)異常服務中 | 目前服務異常並暫時無法使用。 |
+| 服務狀態 | 狀態說明 | 連結 |
+| :--- | :--- | :--- |
+| ![](../.gitbook/assets/color_02.png)正常服務中 | 目前所有功能均正常提供服務。 | [➥ Link](zhuang-tai-status.md#zheng-chang-fu-wu-zhong) |
+| ![](../.gitbook/assets/color_03.png)維護服務中 | 目前正在更新、維修或系統相關調整作業。 | [➥ Link](zhuang-tai-status.md#wei-hu-fu-wu-zhong) |
+| ![](../.gitbook/assets/color_04.png)異常服務中 | 目前服務異常並暫時無法使用。 | [➥ Link](zhuang-tai-status.md#yi-chang-fu-wu-zhong) |
 
 ## 正常服務中
 

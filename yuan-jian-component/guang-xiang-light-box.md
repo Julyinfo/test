@@ -1,5 +1,5 @@
 ---
-description: 以下將介紹光箱的用途與設定值
+description: 以下將介紹光箱的用途與設定值。
 ---
 
 # 光箱 Light Box

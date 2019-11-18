@@ -1,3 +1,7 @@
+---
+description: 進入網頁或轉頁時顯示，給予內容載入時間。
+---
+
 # 載入動畫 Loding
 
 ![](../.gitbook/assets/loading_low_ie.jpg)
@@ -51,6 +55,8 @@
 ```javascript
 <script type="text/javascript" src="scripts/page_scripts.js"></script>
 ```
+
+{% file src="../.gitbook/assets/page\_scripts.rar" caption="page\_scripts.js - 下載" %}
 
 動畫會在頁面讀取完畢後結束Loading動畫
 

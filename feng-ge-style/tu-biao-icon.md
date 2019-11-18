@@ -10,7 +10,7 @@ description: Icon在網站中雖然不是最為重要的，但也扮演著不可
 
 ![](../.gitbook/assets/icon_banner.png)
 
-在大類別的代表圖標將採用SVG動畫的表現方式來增加識別性。在首頁呈現尺寸以78px\*78px為標準，而內頁將圖標尺寸縮減為52px\*52px來對應文字呈現。
+在主類別的代表圖標將採用SVG動畫的表現方式來增加識別性。在首頁呈現尺寸以78px\*78px為標準，而內頁將圖標尺寸縮減為52px\*52px來對應文字呈現。
 
 如需引用參數請前往「[元件 - SVG](../yuan-jian-component/svg-dong-hua.md)」
 

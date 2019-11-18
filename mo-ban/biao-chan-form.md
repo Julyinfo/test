@@ -17,3 +17,11 @@
 
 如需引用參數請前往「[元件 - 表單](../yuan-jian-component/biao-chan.md)」
 
+![](../.gitbook/assets/input_image_01.png)
+
+![](../.gitbook/assets/input_image_02.png)
+
+![](../.gitbook/assets/input_image_03.png)
+
+![](../.gitbook/assets/input_image_04.png)
+

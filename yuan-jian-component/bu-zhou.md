@@ -1,4 +1,10 @@
+---
+description: 引導使用者目前進行步驟之進度。
+---
+
 # 步驟 Step
+
+以案件申請中的「線上變更案件基本資料」做為範例：
 
 ![](../.gitbook/assets/step_image_01.png)
 
