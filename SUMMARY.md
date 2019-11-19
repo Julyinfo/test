@@ -20,6 +20,7 @@
   * [表格 Table](mo-ban/xiang-xi-ye-detail.md)
   * [列表 List](mo-ban/lie-biao-list.md)
 * [元件 Component](yuan-jian-component/README.md)
+  * [框線 Border](yuan-jian-component/kuang-xian-border.md)
   * [表單 Form](yuan-jian-component/biao-chan.md)
   * [步驟 Step](yuan-jian-component/bu-zhou.md)
   * [光箱 Light Box](yuan-jian-component/guang-xiang-light-box.md)
