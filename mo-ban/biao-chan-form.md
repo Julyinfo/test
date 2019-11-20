@@ -17,11 +17,11 @@
 
 如需引用參數請前往「[元件 - 表單](../yuan-jian-component/biao-chan.md)」
 
-![](../.gitbook/assets/input_image_01.png)
+![&#x8F38;&#x5165;&#x6846; \( Input Box \)](../.gitbook/assets/input_image_01.png)
 
-![](../.gitbook/assets/input_image_02.png)
+![&#x4E0B;&#x62C9;&#x9078;&#x55AE; \( Select \)](../.gitbook/assets/input_image_02.png)
 
-![](../.gitbook/assets/input_image_03.png)
+![&#x9078;&#x64C7; \( Radio Button \)](../.gitbook/assets/input_image_03.png)
 
-![](../.gitbook/assets/input_image_04.png)
+![&#x6838;&#x53D6; \( Check Box \)](../.gitbook/assets/input_image_04.png)
 
