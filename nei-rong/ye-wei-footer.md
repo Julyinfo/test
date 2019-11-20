@@ -25,6 +25,8 @@ footer{ backgroung-color:#eee; padding:40px;}
 Lv01_menu{ color:#005798; font-size:16px;}
 Lv02_menu{ color:#333; font-size:14px;}
 Lv03_menu{ color:#333; font-size:14px;}
+footer_button{ background:rgb(0,87,152); background:-moz-linear-gradient(left, rgba(0,87,152,1) 0%, rgba(47,164,219,1) 100%); background:-webkit-linear-gradient(left, rgba(0,87,152,1) 0%,rgba(47,164,219,1) 100%); background:linear-gradient(to right, rgba(0,87,152,1) 0%,rgba(47,164,219,1) 100%);}
+footer_buttn_word{ font-size:12px; color:#fff;}
 ```
 
 以下為頁尾 HTML / CSS ：

@@ -40,7 +40,7 @@ header{ width:100%; height:72px; background-color:#333; position:fixed; top:0; l
 .menu{ font-size:18px; color:#fff; padding:0 20px;}
 ```
 
-以下為頁首 HTML / CSS ：
+以下為頁首 HTML / CSS 檔案下載：
 
 {% file src="../.gitbook/assets/header.html" caption="header.html - 下載" %}
 

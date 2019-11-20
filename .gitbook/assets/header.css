@@ -85,9 +85,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fa4db', end
 .header .menus{ /*max-height:745px; */ max-height: calc(100vh - 132px); overflow:auto; }
 .header .menus .grids{ display:block; line-height:normal; padding: 15px 5px; border-bottom: 1px solid #ddd; position:relative; margin: 0 15px; }
 .header .menus .grids:last-child{ border:none; }
-.header .menus .grids .gtitle{ text-align:left; position:relative; padding:0; }
+.header .menus .grids .gtitle{ text-align:left; position:relative; padding:0; color:#333;}
 .header .menus .grids .gtitle:after{ content:""; display:block; width:0; height:0; border-style:solid; border-color:#aaa transparent transparent transparent; border-width:7px 5px 0 5px; position:absolute; right:5px; top:50%; margin-top:-3px; }
-.header .menus .grids .du{ position:static; padding:10px 0 0 0; background:none !important;}
+.header .menus .grids .du{ position:static; padding:10px 0 0 0; background:none !important; box-shadow:none;}
 .header .menus .grids .du .range{ padding:0; display:block; }
 .header .menus .grids .du .sgrids{ display:block; width:auto; padding:0; border:0; margin-bottom: 15px; }
 .header .menus .grids .du .sgrids .stitle{ font-size:16px; margin:0 0 10px 0; color:#005798;}
