@@ -8,9 +8,9 @@ description: 辨別狀態工具。
 
 | 服務狀態 | 狀態說明 | 連結 |
 | :--- | :--- | :--- |
-| ![](../.gitbook/assets/color_02.png)正常服務中 | 目前所有功能均正常提供服務。 | [➥ Link](zhuang-tai-status.md#zheng-chang-fu-wu-zhong) |
-| ![](../.gitbook/assets/color_03.png)維護服務中 | 目前正在更新、維修或系統相關調整作業。 | [➥ Link](zhuang-tai-status.md#wei-hu-fu-wu-zhong) |
-| ![](../.gitbook/assets/color_04.png)異常服務中 | 目前服務異常並暫時無法使用。 | [➥ Link](zhuang-tai-status.md#yi-chang-fu-wu-zhong) |
+| ![](../.gitbook/assets/color_status_01.png)正常服務中 | 目前所有功能均正常提供服務。 | [➥ Link](zhuang-tai-status.md#zheng-chang-fu-wu-zhong) |
+| ![](../.gitbook/assets/color_status_02.png)維護服務中 | 目前正在更新、維修或系統相關調整作業。 | [➥ Link](zhuang-tai-status.md#wei-hu-fu-wu-zhong) |
+| ![](../.gitbook/assets/color_status_03.png)異常服務中 | 目前服務異常並暫時無法使用。 | [➥ Link](zhuang-tai-status.md#yi-chang-fu-wu-zhong) |
 
 ## 正常服務中
 
