@@ -23,6 +23,14 @@ description: 辨別狀態工具。
 * 顯示文字：正常
 * 動態動畫：有
 
+背景波浪\(Wave\)效果，僅於「正常」狀態時顯示，於IE\(Internet Explorer\)不支援顯示波浪顯示，請在中載入 jquery檔案，於jquery後方加入以下&lt;script&gt;，系統將協助判斷並修正顯示。
+
+```javascript
+<script type="text/javascript" src="scripts/page_scripts.js"></script>
+```
+
+{% file src="../.gitbook/assets/page\_scripts.rar" caption="page\_scripts.js - 下載" %}
+
 ## 維護服務中
 
 ![](../.gitbook/assets/status_image_02.jpg)
